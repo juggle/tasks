@@ -17,3 +17,6 @@ Schedules a task to be run at a specific time. Can specify date or delay.
 
 ## IntervalTask
 Shedules an infinite running task, to be run every _n_ milliseconds.
+
+## WorkerTask
+Schedules a task to be run inside of a generic worker
